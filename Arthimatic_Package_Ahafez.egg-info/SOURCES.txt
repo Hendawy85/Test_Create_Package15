@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+Arthimatic_Package_Ahafez.egg-info/PKG-INFO
+Arthimatic_Package_Ahafez.egg-info/SOURCES.txt
+Arthimatic_Package_Ahafez.egg-info/dependency_links.txt
+Arthimatic_Package_Ahafez.egg-info/top_level.txt
